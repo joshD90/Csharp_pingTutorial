@@ -1,0 +1,15 @@
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/bin/Debug/net7.0/Ping_Tutorial
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/bin/Debug/net7.0/Ping_Tutorial.deps.json
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/bin/Debug/net7.0/Ping_Tutorial.runtimeconfig.json
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/bin/Debug/net7.0/Ping_Tutorial.dll
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/bin/Debug/net7.0/Ping_Tutorial.pdb
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.csproj.AssemblyReference.cache
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.AssemblyInfoInputs.cache
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.AssemblyInfo.cs
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.csproj.CoreCompileInputs.cache
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.dll
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/refint/Ping_Tutorial.dll
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.pdb
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/Ping_Tutorial.genruntimeconfig.cache
+/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/obj/Debug/net7.0/ref/Ping_Tutorial.dll
