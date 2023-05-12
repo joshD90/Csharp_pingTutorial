@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{2F768C3F-D4A8-4F39-88E7-EB1AEA04E789}|Default">
-  <MonoDevelop.Ide.ItemProperties.Ping__Tutorial FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ping_Tutorial/Program.cs">
+    <Files>
+      <File FileName="Ping_Tutorial/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ping_Tutorial" expanded="True">
+            <Node name="Ping_Tutorial" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ping__Tutorial PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/josh/Projects/Ping_Tutorial/Ping_Tutorial/Program.cs" relfile="Ping_Tutorial/Program.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
